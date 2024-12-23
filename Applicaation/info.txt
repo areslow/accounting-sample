@@ -1,0 +1,5 @@
+﻿
+
+//interfaces and definitions goes in this library
+// Services definitions ...
+// it will be implemented in infrastructure layer
